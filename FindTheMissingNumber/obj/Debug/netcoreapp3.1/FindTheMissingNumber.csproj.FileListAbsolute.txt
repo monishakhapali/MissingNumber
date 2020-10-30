@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\bin\Debug\netcoreapp3.1\FindTheMissingNumber.exe
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\bin\Debug\netcoreapp3.1\FindTheMissingNumber.deps.json
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\bin\Debug\netcoreapp3.1\FindTheMissingNumber.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\bin\Debug\netcoreapp3.1\FindTheMissingNumber.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\bin\Debug\netcoreapp3.1\FindTheMissingNumber.dll
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\bin\Debug\netcoreapp3.1\FindTheMissingNumber.pdb
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\netcoreapp3.1\FindTheMissingNumber.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\netcoreapp3.1\FindTheMissingNumber.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\netcoreapp3.1\FindTheMissingNumber.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\netcoreapp3.1\FindTheMissingNumber.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\netcoreapp3.1\FindTheMissingNumber.dll
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\netcoreapp3.1\FindTheMissingNumber.pdb
+C:\Users\monisha.khapali\source\repos\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\netcoreapp3.1\FindTheMissingNumber.genruntimeconfig.cache
